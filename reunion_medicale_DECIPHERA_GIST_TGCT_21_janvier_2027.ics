@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//DECIPHERA//Reunion medicale GIST TGCT//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:20270121T190000-reunion-medicale-gist-tgct@deciphera.com
+DTSTAMP:20260918T122100Z
+DTSTART;TZID=Europe/Paris:20270121T190000
+DTEND;TZID=Europe/Paris:20270121T214000
+SUMMARY:Réunion médicale DECIPHERA - Actualités thérapeutiques dans les GIST et les TGCT
+LOCATION:Kwerk Madeleine\, 22 boulevard Malesherbes\, 75008 Paris ou distanciel
+DESCRIPTION:Actualités thérapeutiques dans les GIST et les TGCT.\nRegards croisés et illustration par des cas cliniques documentés.\n\nSave the Date. Les modalités de participation et les informations complémentaires seront communiquées ultérieurement.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
